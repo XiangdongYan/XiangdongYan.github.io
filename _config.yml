@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Headshot.png"
   name             : "Xiangdong (sheldon) Yan"
-  pronouns         : # example: "He/his"  
+  pronouns         : "He/his"  
   bio              : "Ph.D. Student/ ASCE & TRB Member"
   location         : "Pittsburgh, PA, US"
   employer         : "University of Pittsburgh"
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-4289-7330"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Xiangdong-Yan"
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
