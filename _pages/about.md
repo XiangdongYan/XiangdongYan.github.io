@@ -8,20 +8,20 @@ redirect_from:
 ---
 
 ------
-Hi! I am **Xiangdong (Sheldon)**, welcome to my Pages!
+Hi! I am **Xiangdong (sheldon)**, welcome to my pages!
 
-My current research focuses on developing advanced **deep learning-based computer vision** techniques to enhance quality assurance and quality control (QA/QC) processes for civil infrastructure, with a particular emphasis on **3D reconstruction**, image and LiDAR point cloud recognition as well as high-resolution semantic segmentation, aim at addressing critical challenges in infrastructure assessment. 
+My current research focuses on developing advanced **Deep Learning-based Computer Vision** techniques to enhance quality assurance and quality control (QA/QC) processes for civil infrastructure, with a particular emphasis on **3D reconstruction**, image and LiDAR point cloud recognition as well as high-resolution semantic segmentation, aim at addressing critical challenges in infrastructure assessment. 
 
-You are very welcome to [contact me](https://github.com/academicpages/academicpages.github.io) if you have any thoughts!
+You are very welcome to [contact me](xiy144@pitt.edu) if you have any thoughts!
 
 
 News!!!
 ------
-2025.01.09 I just completed the **TRB** (Transportation Research Board) hold in Washington D.C. this year! Here to see my report.
+2025.01.05 - I just completed the **104th TRB** ([Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/)) held in Washington D.C. this year! Here for more info.
 
-2025.01.09 I just completed the **TRB** (Transportation Research Board) hold in Washington D.C. this year! Here to see my report.
+2025.08.26 - Starting a new HD LiDAR point cloud semantic segmentation project of [IRISE](https://www.engineering.pitt.edu/subsites/consortiums/irise/research/active-projects/), collaboration is welcome!
 
-2025.01.09 I just completed the **TRB** (Transportation Research Board) hold in Washington D.C. this year! Here to see my report.
+2025.08.25 - I attended the **13th ICCP** ([International Conference on Concrete Pavements](https://13thiccp.concretepavements.org/)) in Minneapolis, Minnesota, organized by ISCP. It was so impressive! [Here](https://13thiccp.concretepavements.org/workshops/deep-learning-based-entrapped-air-segmentation-and-evaluation-ease-for-plain-concrete-pavement-applications/) is my work.
 
 
 Selected Publications
