@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home Page"
+title                    : "Xiangdong"
 title_separator          : "-"
 name                     : &name "Xiangdong Yan"
 description              : &description "personal description"
-url                      : https://xiangdongyan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://xiangdongyan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangdongyan.github.io"
 
