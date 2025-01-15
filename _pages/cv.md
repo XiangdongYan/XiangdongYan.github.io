@@ -18,17 +18,17 @@ Education
 
 Honors & Awards
 ======
-2024.11 - CEE Travel Grant, Swanson School of Engineering, United State
-2024.04 - Research Assistant of the Year, Swanson School of Engineering, United State
-2024.01 - Best Paper Award, Transportation Research Board, United State
-2022.04 - JASSO Scholarship, Japan Student Services Organization, Japan
-2020.10 - JASSO Scholarship, Japan Student Services Organization, Japan
-2018.11 - National Scholarship, Ministry of Education of the People's Republic of China, China
-2018.10 - Excellent Award in Revit Competition, Ministry of Industry and Information Technology of China, China
-2018.05 - Second prize in Structural Model Design Competition, Henan University of Science and Technology, China
-2018.04 - Excellent Student Cadre, Henan University of Science and Technology, China
-2017.10 - Excellent Student Cadre, Henan University of Science and Technology, China
-2017.04 - Excellent Class Leader, Henan University of Science and Technology, China
+1. 2024.11 - CEE Travel Grant, Swanson School of Engineering, United State
+2. 2024.04 - Research Assistant of the Year, Swanson School of Engineering, United State
+3. 2024.01 - Best Paper Award, Transportation Research Board, United State
+4. 2022.04 - JASSO Scholarship, Japan Student Services Organization, Japan
+5. 2020.10 - JASSO Scholarship, Japan Student Services Organization, Japan
+6. 2018.11 - National Scholarship, Ministry of Education of the People's Republic of China, China
+7. 2018.10 - Excellent Award in Revit Competition, Ministry of Industry and Information Technology of China, China
+8. 2018.05 - Second prize in Structural Model Design Competition, Henan University of Science and Technology, China
+9. 2018.04 - Excellent Student Cadre, Henan University of Science and Technology, China
+10. 2017.10 - Excellent Student Cadre, Henan University of Science and Technology, China
+11. 2017.04 - Excellent Class Leader, Henan University of Science and Technology, China
 
   
 Skills
