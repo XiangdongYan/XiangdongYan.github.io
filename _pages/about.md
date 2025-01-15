@@ -27,8 +27,8 @@ News!!!
 Selected Publications
 ------
 1.	**X. Yan**, M. Darnell, J. Vandenbossche, A. Fascetti*, 2024. “Camera-Based Binocular Stereo Vision for Dynamic Assessment of Vibration Operations in Slipform Paving.” Transportation Research Record. In press.
-2.	**X. Yan***, M. Darnell, J. Vandenbossche, A. Fascetti. 2024. “Deep Learning-Based Entrapped Air Segmentation and Evaluation (EASE) for Plain Concrete Pavement Applications.” 13th International Conference on Concrete Pavements (ICCP). In press. (Conference, Minnesota, USA.).
-3.	**X. Yan***, A. Fascetti, J. Vandenbossche, M. Darnell. 2023. “Computer Vision-Based Estimation of The Effects of Vibration in Slipform Paving.” Transportation Research Record, 0(0). (Best Paper Award)
+2.	**X. Yan***, M. Darnell, J. Vandenbossche, A. Fascetti. 2024. “Deep Learning-Based Entrapped Air Segmentation and Evaluation (EASE) for Plain Concrete Pavement Applications.” 13th International Conference on Concrete Pavements (ICCP). In press.
+3.	**X. Yan***, A. Fascetti, J. Vandenbossche, M. Darnell. 2023. “Computer Vision-Based Estimation of The Effects of Vibration in Slipform Paving.” Transportation Research Record, 0(0). **(Best Paper Award)**
 4.	S. Hussain, Pei-Shan Chen*, N. Koizumi, B. Liu, and **X. Yan**. 2023. “Experimental Study on Spring Constants of Structural Glass Panel Joints Under In-Plane Loading.” Pertanika Journal of Science & Technology, Volume 31, Issue 4, July 2023. DOI: https://doi.org/10.47836/pjst.31.4.213
 5.	B. Liu, Pei-Shan Chen*, **X. Yan**, J. Jin. 2023. “Fitting the Approximate Equation to Estimate the Global Buckling Load Of Cylindrical Single-Layer Space Frames.” AIJ Journal of Technology and Design, 2023, Volume 29, Issue 72, Pages 725-730, Released on J-STAGE June 20, 2023, Online ISSN 1881-8188, Print ISSN 1341-9463, https://doi.org/10.3130/aijt.29.7253
 
