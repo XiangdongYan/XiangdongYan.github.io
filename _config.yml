@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiangdong"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Xiangdong Yan"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Headshot.png"
   name             : "Xiangdong (sheldon) Yan"
-  pronouns         : "Pronouns: He/his"  
   bio              : "Ph.D. Student / ASCE & TRB Member"
+  pronouns         : "Pronouns: He / his"
   location         : "Pittsburgh, PA, US"
   employer         : "University of Pittsburgh"
   uri              : # URL
