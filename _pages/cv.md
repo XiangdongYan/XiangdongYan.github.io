@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2022 - current, Ph.D Student, University of Pittsburgh, Pittsburgh City, USA
-* 2020 - 2022, Master Cegree, Kyushu Institute of Technology, Kitakyushu City, Japan
-* 2019 - 2020, Exchange Student, Kyushu Institute of Technology, Kitakyushu City, Japan
-* 2016 - 2020, Bachelor Degree, Henan University of Technology, Luoyang City, China
+* 2022 - Now,  Ph.D,  University of Pittsburgh, Pittsburgh City, USA
+* 2020 - 2022, Master, Kyushu Institute of Technology, Kitakyushu City, Japan
+* 2019 - 2020, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan
+* 2016 - 2020, Bachelor, Henan University of Technology, Luoyang City, China
 
 Honors & Awards
 ======
@@ -34,7 +34,7 @@ Honors & Awards
 Skills
 ======
 * Programming
-  * Sub-skill Python, MATLAB, JavaScript, HTML5/CSS, Fortran90
+  * Python, MATLAB, JavaScript, HTML5/CSS, Fortran90
 * BIM
   * Unreal Engine, ADINA, SOLIDWORKS, Autodesk CAD, Revit, Blender, Fusion 360
 
