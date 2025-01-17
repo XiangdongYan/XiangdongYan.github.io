@@ -41,9 +41,7 @@ Additionally, I have expertise in mechnical analysis (FEA) & Building Informatio
 
 Hobbies
 ------
-I have a passion for reading and writing, which allow me to explore new ideas and express creativity. 
-
-Play the harmonica and listen to music as one of my ways to unwind and stay inspired. 
+I have a passion for reading and writing, which allow me to explore new ideas and express creativity. Play the harmonica and listen to music as one of my ways to unwind and stay inspired. 
 
 I also enjoy in outdoor activities includes swimming, skiing, running, and mountaineering, all of which help me stay active while connecting with nature and challenging myself physically.
 
