@@ -94,13 +94,13 @@
     padding-right: $right-sidebar-width-narrow;
   }
 
-  @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
-  }
+  // @include breakpoint($large) {
+  //   padding-right: $right-sidebar-width;
+  // }
 
-  @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
-  }
+  // @include breakpoint($x-large) {
+  //   padding-right: $right-sidebar-width-wide;
+  // }
 
   .page__meta {
     margin: 0 0 4px;
