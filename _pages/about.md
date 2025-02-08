@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh 🏛. I am dedicated to improving the safety and reliability of **civil infrastructure** through **advanced deep learning techniques**. 
+Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh 🏛. I am dedicated to improving the safety and reliability of **civil infrastructure** through **advanced deep learning techniques**. <br>
 
 
 My current work focuses on developing cutting-edge computer vision methods—such as **3D reconstruction, image and LiDAR point cloud recognition, and semantic segmentation**—to enhance quality assurance and quality control (QA/QC) processes. By pushing the boundaries of AI-driven analysis, I aim to address critical challenges in infrastructure assessment and ultimately create a safer, more resilient built environment. Here, you’ll find details about my research, publications, and ongoing projects. Thank you for visiting!
@@ -45,7 +45,7 @@ My current work focuses on developing cutting-edge computer vision methods—suc
 🌿 **For more**
 ------
 🔹 *"We are standing on the shore of the unknown, a vast ocean of mystery stretching before us. To live seriously is to sail bravely into those depths, guided not by fear but by the stars of curiosity and compassion. For every truth uncovered is a lantern lit for those who follow."*  
-*— **Adapted from Carl Sagan & Mary Shelley*** 
+*— **Adapted from Carl Sagan & Mary Shelley*** <br>
 
 
 🔹 *"Science is not a cold ledger of facts, nor life a mere tally of days. True research is a love affair with the unknown—a courtship of questions, a marriage of patience and insight. And a life well-lived? It is the poetry we write with our choices, stanza by deliberate stanza."*  
@@ -56,3 +56,4 @@ My current work focuses on developing cutting-edge computer vision methods—suc
 &nbsp;
 
 *If you see this, you touched the end.*
+
