@@ -44,7 +44,7 @@ My current work focuses on developing cutting-edge computer vision methods—suc
 🌿 **For more**
 ------
 🔹 *"We are standing on the shore of the unknown, a vast ocean of mystery stretching before us. To live seriously is to sail bravely into those depths, guided not by fear but by the stars of curiosity and compassion. For every truth uncovered is a lantern lit for those who follow."*  
-*— **Adapted from Carl Sagan & Mary Shelley*** <br>
+*— **Adapted from Carl Sagan & Mary Shelley*** <br><br>
 
 
 🔹 *"Science is not a cold ledger of facts, nor life a mere tally of days. True research is a love affair with the unknown—a courtship of questions, a marriage of patience and insight. And a life well-lived? It is the poetry we write with our choices, stanza by deliberate stanza."*  
