@@ -4,8 +4,7 @@ excerpt: "This project develops **computer vision-based quality control** techni
 collection: portfolio
 ---
 
-Abstract
-
+## Abstract
 
 This project aims to develop **advanced computer vision-based quality control** techniques for **slipform paving**, focusing on the effects of vibration frequency and duration on concrete fluidization and consolidation. To achieve this, a Paver Consolidation Simulator (PaCS) is designed to replicate field paving conditions in a controlled laboratory setting. This system integrates a binocular stereo-vision setup with accelerometers to capture both internal and external responses of the concrete during vibration, allowing for real-time analysis of material behavior.
 
