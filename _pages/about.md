@@ -50,9 +50,7 @@ My current work focuses on developing cutting-edge computer vision methods—suc
 🔹 *"Science is not a cold ledger of facts, nor life a mere tally of days. True research is a love affair with the unknown—a courtship of questions, a marriage of patience and insight. And a life well-lived? It is the poetry we write with our choices, stanza by deliberate stanza."*  
 *— **Original synthesis***
 
-&nbsp;
-
-&nbsp;
+<br><br><br><br><br><br><br><br>
 
 *If you see this, you touched the end.*
 
