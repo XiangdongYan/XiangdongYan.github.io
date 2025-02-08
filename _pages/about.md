@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "🌱 About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hello! I’m *[Xiangdong Yan]*, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh 🏛. I am dedicated to improving the safety and reliability of civil infrastructure through advanced deep learning techniques. My current work focuses on developing cutting-edge 🖥 computer vision methods—such as 3D reconstruction, image and LiDAR point cloud recognition, and semantic segmentation—to enhance quality assurance and quality control (QA/QC) processes 🛠. By pushing the boundaries of AI-driven analysis, I aim to address critical challenges in infrastructure assessment and ultimately create a safer, more resilient built environment. Here, you’ll find details about my research, publications, and ongoing projects. Thank you for visiting!
+Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh 🏛. I am dedicated to improving the safety and reliability of civil infrastructure through advanced deep learning techniques. My current work focuses on developing cutting-edge 🖥 computer vision methods—such as **3D reconstruction, image and LiDAR point cloud recognition, and semantic segmentation**—to enhance quality assurance and quality control (QA/QC) processes. By pushing the boundaries of AI-driven analysis, I aim to address critical challenges in infrastructure assessment and ultimately create a safer, more resilient built environment. Here, you’ll find details about my research, publications, and ongoing projects. Thank you for visiting!
 
 
 📰 News!!!
@@ -22,7 +22,7 @@ Hello! I’m *[Xiangdong Yan]*, candidate in the Department of Civil and Environ
 
 🔹2024.08 - **13th ICCP conference**:  I had the opportunity to attend the [13th International Conference on Concrete Pavements](https://13thiccp.concretepavements.org/) (ICCP) in Minneapolis, Minnesota, organized by ISCP. It was an inspiring event! You can check out my presentation [here](https://13thiccp.concretepavements.org/workshops/deep-learning-based-entrapped-air-segmentation-and-evaluation-ease-for-plain-concrete-pavement-applications/).
 
-&nbsp;
+
 
 📄 Selected Publications
 ------
@@ -36,15 +36,16 @@ Hello! I’m *[Xiangdong Yan]*, candidate in the Department of Civil and Environ
 
 🔸 *5.	B. Liu, Pei-Shan Chen, **X. Yan**, J. Jin. 2023. “Fitting the Approximate Equation to Estimate the Global Buckling Load Of Cylindrical Single-Layer Space Frames.” AIJ Journal of Technology and Design, 2023, Volume 29, Issue 72, Pages 725-730, Released on J-STAGE June 20, 2023, Online ISSN 1881-8188, Print ISSN 1341-9463, https://doi.org/10.3130/aijt.29.7253*
 
-&nbsp;
 
-🌿 For more
-------
+
+---
+🌿 **For more**
+
 🔹 *"We are standing on the shore of the unknown, a vast ocean of mystery stretching before us. To live seriously is to sail bravely into those depths, guided not by fear but by the stars of curiosity and compassion. For every truth uncovered is a lantern lit for those who follow."*  
-— **Adapted from Carl Sagan & Mary Shelley**  
+*— **Adapted from Carl Sagan & Mary Shelley*** 
 
 🔹 *"Science is not a cold ledger of facts, nor life a mere tally of days. True research is a love affair with the unknown—a courtship of questions, a marriage of patience and insight. And a life well-lived? It is the poetry we write with our choices, stanza by deliberate stanza."*  
-— **Original synthesis**  
+*— **Original synthesis***
 
 &nbsp;
 
