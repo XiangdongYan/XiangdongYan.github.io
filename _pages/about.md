@@ -18,7 +18,7 @@ My current work focuses on developing cutting-edge computer vision methods—suc
 📰 News!!!
 ------
 
-🔹2025.02 - **PhD Proposal Defense**: 🏆 I successfully passed my PhD proposal defense and am now officially a PhD candidate. I’m grateful for all the support and hard work that went into reaching this milestone!
+🔹2025.02 - **PhD Proposal Defense**: 🌟 I successfully passed my PhD proposal defense and am now officially a PhD candidate. I’m grateful for all the support and hard work that went into reaching this milestone!
 
 🔹2025.01 - **TRB Annual Meeting**: 🤝 I participated in the 104th [Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/) Annual Meeting in Washington, D.C. It was a fantastic opportunity to share ideas and network with professionals in the field.
 
