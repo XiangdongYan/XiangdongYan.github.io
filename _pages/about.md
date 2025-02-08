@@ -24,7 +24,7 @@ Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Envir
 
 
 
-📄 Selected Publications
+📑 Selected Publications
 ------
 🔸 *1.	**X. Yan**, M. Darnell, J. Vandenbossche, A. Fascetti, 2024. “Camera-Based Binocular Stereo Vision for Dynamic Assessment of Vibration Operations in Slipform Paving.” Transportation Research Record. In press.*
 
@@ -38,10 +38,8 @@ Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Envir
 
 
 
--------
-
-## 🌿 **For more**
-
+🌿 **For more**
+------
 🔹 *"We are standing on the shore of the unknown, a vast ocean of mystery stretching before us. To live seriously is to sail bravely into those depths, guided not by fear but by the stars of curiosity and compassion. For every truth uncovered is a lantern lit for those who follow."*  
 *— **Adapted from Carl Sagan & Mary Shelley*** 
 
@@ -53,7 +51,3 @@ Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Envir
 &nbsp;
 
 *If you see this, you touched the end.*
-
-
-
-
