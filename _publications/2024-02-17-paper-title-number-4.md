@@ -2,7 +2,7 @@
 title: "Dynamic Properties and Seismic Performances of 1.5-Layer Space Frames with Lap-Units with Considering Vibration of Lower Joints"
 collection: publications
 category: conferences
-permalink: /publication/2021_02_17_conference_01
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Space Frame Structural Analysis'
 date: 2021-12-5
 venue: 'SAES 2021: 9th International Joint Symposium on Applied Engineering and Sciences'
