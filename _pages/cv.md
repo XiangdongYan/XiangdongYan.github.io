@@ -19,9 +19,9 @@ redirect_from:
 
 🎖️ Honors & Awards
 ------
-* 2024.11 - CEE Travel Grant, Swanson School of Engineering, United State of American
-* 2024.04 - Research Assistant of the Year, Swanson School of Engineering, United State of American
-* 2024.01 - **Best Paper Award**, Transportation Research Board, United State of American
+* 2024.11 - CEE Travel Grant, Swanson School of Engineering, United State of America
+* 2024.04 - Research Assistant of the Year, Swanson School of Engineering, United State of America
+* 2024.01 - **Best Paper Award**, Transportation Research Board, United State of America
 * 2022.04 - JASSO Scholarship, Japan Student Services Organization, Japan
 * 2020.10 - JASSO Scholarship, Japan Student Services Organization, Japan
 * 2018.11 - **National Scholarship**, Ministry of Education of the People's Republic of China, China
@@ -43,16 +43,14 @@ My experience in Unreal Engine further bridges virtual prototyping and immersive
 
 🌟 Hobbies
 ------
-Beyond technical endeavors, I nurture a lifelong passion for literary exploration and creative expression, channeling ideas into written narratives. 
+I am an avid reader and writer, passions that fuel creativity and broaden my perspective. Music serves as both a creative outlet and a source of inspiration—whether I’m unwinding with the harmonica or drawing energy from curated playlists. 
 
-Melodic introspection through the harmonica and curated auditory inspiration serve as meditative counterpoints, balancing analytical rigor with creative rejuvenation. Equally vital are my pursuits in nature—swimming, skiing, trail running, and alpine ascents—where physical vitality meets strategic discipline, fostering resilience through communion with untamed landscapes. 
-
-Together, these practices cultivate a harmonious equilibrium between mind, craft, and body, grounding my ethos of approaching life’s challenges with artistry, intention, and an enduring reverence for growth.
+To balance mental focus with physical vitality, I embrace outdoor pursuits like swimming, skiing, trail running, and mountaineering. These activities challenge me to grow while fostering discipline, resilience, and a deep appreciation for the natural world.
 
 <br><br><br>
 
 
-*"The harmonica is the only instrument that breathes. When you play it, you’re breathing poetry."*
+*"The harmonica is the only instrument that breathes. When you play it, you’re breathing poetry."* <br>
 *— Charlie Musselwhite*
 
 
