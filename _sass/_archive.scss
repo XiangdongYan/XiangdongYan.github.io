@@ -35,7 +35,7 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
   }
 }
 
@@ -102,7 +102,7 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 0em;
   }
 
   // @include breakpoint($large) {
