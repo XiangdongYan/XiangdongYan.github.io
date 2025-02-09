@@ -11,25 +11,25 @@ redirect_from:
 
 🎓 Education
 ------
-🔹 2022 - Now,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, USA <br>
-🔹 2020 - 2022, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
-🔹 2019 - 2020, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
-🔹 2016 - 2020, Bachelor, Henan University of Technology, Luoyang City, China <br>
+* 2022 - Now,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, USA <br>
+* 2020 - 2022, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
+* 2019 - 2020, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
+* 2016 - 2020, Bachelor, Henan University of Technology, Luoyang City, China <br>
 
 
 🎖️ Honors & Awards
 ------
-🔸 2024.11 - CEE Travel Grant, Swanson School of Engineering, United States <br>
-🔸 2024.04 - Research Assistant of the Year, Swanson School of Engineering, United States <br>
-🔸 2024.01 - **Best Paper Award**, Transportation Research Board, United States <br>
-🔸 2022.04 - JASSO Scholarship, Japan Student Services Organization, Japan <br>
-🔸 2020.10 - JASSO Scholarship, Japan Student Services Organization, Japan <br>
-🔸 2018.11 - **National Scholarship**, Ministry of Education of the People's Republic of China, China <br>
-🔸 2018.10 - Excellent Award in Revit Competition, Ministry of Industry and Information Technology of China, China <br>
-🔸 2018.05 - Second prize in Structural Model Design Competition, Henan University of Science and Technology, China <br>
-🔸 2018.04 - Excellent Student Cadre, Henan University of Science and Technology, China <br>
-🔸 2017.10 - Excellent Student Cadre, Henan University of Science and Technology, China <br>
-🔸 2017.04 - Excellent Class Leader, Henan University of Science and Technology, China <br>
+* 2024.11 - CEE Travel Grant, Swanson School of Engineering, United States <br>
+* 2024.04 - Research Assistant of the Year, Swanson School of Engineering, United States <br>
+* 2024.01 - **Best Paper Award**, Transportation Research Board, United States <br>
+* 2022.04 - JASSO Scholarship, Japan Student Services Organization, Japan <br>
+* 2020.10 - JASSO Scholarship, Japan Student Services Organization, Japan <br>
+* 2018.11 - **National Scholarship**, Ministry of Education of the People's Republic of China, China <br>
+* 2018.10 - Excellent Award in Revit Competition, Ministry of Industry and Information Technology of China, China <br>
+* 2018.05 - Second prize in Structural Model Design Competition, Henan University of Science and Technology, China <br>
+* 2018.04 - Excellent Student Cadre, Henan University of Science and Technology, China <br>
+* 2017.10 - Excellent Student Cadre, Henan University of Science and Technology, China <br>
+* 2017.04 - Excellent Class Leader, Henan University of Science and Technology, China <br>
 
   
 👨🏻‍💻 Skills
