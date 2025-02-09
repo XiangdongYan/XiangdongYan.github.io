@@ -35,12 +35,12 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.25em;
+    margin-top: 0.0em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.0em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.0em;
     border-bottom: none;
   }
 }
