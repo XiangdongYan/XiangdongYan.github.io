@@ -2,10 +2,10 @@
 title: "Dynamic Properties and Seismic Performances of 1.5-Layer Space Frames with Lap-Units with Considering Vibration of Lower Joints"
 collection: publications
 category: conferences
-permalink: /publication/2021-12-5-paper-title-number-4
+permalink: /publication/2021-12-5-DynamicProperties-1
 // excerpt: 'Space Frame Structural Analysis'
 date: 2021-12-5
-venue: 'SAES 2021: 9th International Joint Symposium on Applied Engineering and Sciences'
+venue: '9th International Symposium on Applied Engineering and Sciences (SAES2021)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-99-6018-7_18'
 citation: 'Jin, J., Chen, P. S., Liu, B., & Yan, X. (2022, February). Dynamic Properties and Seismic Performance of 1.5-Layer Space Frames with Lap-Units whilst Considering Vibration of Lower Joints. In AWAM International Conference on Civil Engineering (pp. 235-254). Singapore: Springer Nature Singapore.'
 ---
