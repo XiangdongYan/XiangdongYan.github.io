@@ -58,12 +58,19 @@
 }
 
 .archive__item-excerpt {
+  text-align: justify;
+  line-height: 1.0;
   margin-top: 0;
   font-size: $type-size-3;
 
   & + p {
     text-indent: 0;
   }
+}
+
+.archive p {
+  text-align: justify;
+  margin-bottom: 0.5em; // Reduce space between paragraphs
 }
 
 .archive__item-teaser {
@@ -84,6 +91,10 @@
   }
 }
 
+.grid__item li,
+.archive li {
+  margin-bottom: 0.3em; // Reduce spacing between list items
+}
 
 /*
    List view
