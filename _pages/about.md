@@ -10,7 +10,12 @@ redirect_from:
 ------
 Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh 🏛. I am dedicated to improving the safety and reliability of **Civil Infrastructure** through **Advanced Deep Learning** techniques. <br><br>
 
-My current work focuses on developing cutting-edge computer vision methods—such as **3D Reconstruction**, **Image** and **LiDAR Point Cloud Recognition**, and **Semantic Segmentation**—to enhance quality assurance and quality control (QA/QC) processes. By pushing the boundaries of AI-driven analysis, I aim to address critical challenges in infrastructure assessment and ultimately create a safer, more resilient built environment. Here, you’ll find details about my research, publications, and ongoing projects. Thank you for visiting!
+My current work focuses on developing cutting-edge computer vision methods—such as **3D Reconstruction**, **Image** and **LiDAR Point Cloud Recognition**, and **Semantic Segmentation**—to enhance quality assurance and quality control (QA/QC) processes. 
+By pushing the boundaries of AI-driven analysis, I aim to address critical challenges in infrastructure assessment and ultimately create a safer, more resilient built environment. 
+
+I have lived and studied in China, Japan, and the United States, and I am fluent in Chinese, Japanese, and English. This international experience has shaped my perspective and approach to research, allowing me to collaborate across disciplines and cultures to drive innovation.
+
+Here, you’ll find details about my research, publications, and ongoing projects. Thank you for visiting!
 
 
 
