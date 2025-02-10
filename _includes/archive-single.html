@@ -43,7 +43,7 @@
         {% endif %}
         
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><small><small>{{ post.excerpt | markdownify }}</small></small></p>
+    <p class="archive__item-excerpt" itemprop="description"><small>{{ post.excerpt | markdownify }}</small></p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p><small>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></small></p></p>
     {% endif %}
