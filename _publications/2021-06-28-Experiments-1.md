@@ -1,5 +1,5 @@
 ---
-title: "🔹 Experiments and mechanical simulation on bubble concrete: studies on the effects of shape and position of hollow bodies mixed in concrete."
+title: "🔹 Experiments and mechanical simulation on bubble concrete: studies on the effects of shape and position of hollow bodies mixed in concrete"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-06-28-Experiments-1
