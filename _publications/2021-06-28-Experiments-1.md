@@ -1,6 +1,6 @@
 ---
-title: "Experiments and mechanical simulation on bubble concrete: studies on the effects of shape and position of hollow bodies mixed in concrete. <br>
-Yan, X., Chen, P. S., Al-Fakih, A., Liu, B., Mohammed, B. S., & Jin, J. (2021). Crystals, 11(8), 858."
+title: "🔹 Experiments and mechanical simulation on bubble concrete: studies on the effects of shape and position of hollow bodies mixed in concrete. <br>
+🔸 Yan, X., Chen, P. S., Al-Fakih, A., Liu, B., Mohammed, B. S., & Jin, J."
 collection: publications
 category: manuscripts
 permalink: /publication/2021-06-28-Experiments-1
