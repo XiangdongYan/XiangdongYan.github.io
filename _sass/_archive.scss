@@ -59,9 +59,10 @@
 
 .archive__item-excerpt {
   text-align: justify;
-  line-height: 1.0;
+  line-height: 0.85;
   margin-top: 0;
   font-size: $type-size-3;
+  font-style: oblique;
 
   & + p {
     text-indent: 0;
