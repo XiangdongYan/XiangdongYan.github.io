@@ -11,10 +11,10 @@ redirect_from:
 
 🎓 Education
 ------
-* 2022 - Now,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, USA <br>
-* 2020 - 2022, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
-* 2019 - 2020, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
-* 2016 - 2020, Bachelor, Henan University of Technology, Luoyang City, China <br>
+* 2022.09 - Current,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, USA <br>
+* 2020.09 - 2022.08, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
+* 2019.04 - 2020.03, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
+* 2016.09 - 2020.08, Bachelor, Henan University of Technology, Luoyang City, China <br>
 
 
 🎖️ Honors & Awards
