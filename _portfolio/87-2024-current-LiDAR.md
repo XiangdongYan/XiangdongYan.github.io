@@ -1,20 +1,38 @@
 ---
-title: "2024-current: 3D Mesoscale Characterization of Compaction and Consolidation for Pavement Concrete"
-excerpt: "This project focuses on developing deep learning-based **high-resolution 3D point cloud semantic segmentation (PCSS)** techniques 
-for civil infrastructure. It investigates state-of-the-art 3D PCSS methods, evaluates their **application in real-world civil engineering scenarios**, 
-and explores advanced 3D reconstruction techniques, including Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS). 
-The goal is to enhance automated infrastructure monitoring, improve defect detection, and enable more precise structural assessments through 
-advanced AI-driven point cloud analysis​. <br/><br/> <img src='/images/Portfolio_03.png'>"
+title: "2024–Present: AI-Based Semantic Segmentation of LiDAR Point Clouds for Civil Infrastructure"
+excerpt: "This project develops novel deep learning pipelines for high-resolution 3D point cloud segmentation tailored to civil infrastructure. The goal is to automate the classification of structural elements in LiDAR data and advance digital twin technologies for robust asset management and real-time monitoring applications."
 collection: portfolio
 ---
 
-## Abstract
+## Project Summary
 
-This project aims to advance deep learning-based **high-resolution 3D point cloud semantic segmentation (PCSS)** for civil infrastructure applications. This task is divided into three key phases. First, it investigates the current state of 3D PCSS, focusing on techniques that classify each point in a point cloud to provide detailed semantic understanding of civil structures. This includes evaluating various sensing technologies, such as photogrammetry, RGB-D cameras, and LiDAR-based methods (ALS, ULS, TLS, and MLS), to determine their effectiveness in civil engineering applications.
+This research investigates supervised deep learning methods for the semantic segmentation of **high-resolution LiDAR point clouds**, specifically targeting **horizontal civil infrastructure** such as pavements and bridges. Traditional workflows rely heavily on manual classification, making the process labor-intensive, error-prone, and incompatible with the demands of large-scale digital infrastructure management. This project addresses those challenges by developing advanced AI-powered tools that significantly reduce human workload while improving accuracy and repeatability.
 
-Next, the research systematically applies state-of-the-art 3D PCSS algorithms to real-world infrastructure projects, assessing their performance in scenarios such as defect detection, construction site monitoring, and structural assessments. Given the challenges associated with large-scale point clouds, complex geometries, and environmental variability, the study rigorously evaluates the **practical limitations and computational efficiency** of these models, with a focus on recent Transformer-based architectures for improved segmentation accuracy.
+The approach integrates **3D semantic segmentation models** with **2D image-based classification** using multi-view projections. We combine digital models, annotated datasets, and modern computer vision libraries (e.g., OpenCV, TorchVision, CLIP) to evaluate both 3D native and 2D surrogate techniques. Furthermore, we investigate the effect of fusing RGB information from photogrammetric imagery with LiDAR geometry, enhancing segmentation clarity and aiding in the downstream integration with civil engineering tools (e.g., BIM, FEM).
 
-Finally, the task explores the potential of cutting-edge 3D reconstruction techniques, such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS), to enhance infrastructure modeling, monitoring, and visualization. By leveraging these advanced methodologies, the research seeks to overcome current challenges in **real-time 3D scene understanding**, automated structural inspections, and digital twin applications for civil infrastructure. The outcomes of this study will contribute to the development of more robust, scalable, and intelligent PCSS frameworks, 
-enabling highly accurate and efficient infrastructure assessment and maintenance​.
+## Objectives
 
-<br/><br/><img src='/images/Portfolio_03.png'>
+- Develop AI-based classification tools for **automated segmentation of structural elements** in LiDAR point clouds.
+- Integrate RGB-augmented multi-view projections for **scene-level classification**.
+- Build supervised learning pipelines using **civil-specific annotations** and **ground truth datasets**.
+- Quantify the impact of RGB and geometric fusion in improving classification accuracy.
+- Prepare guidelines and workflows for seamless adoption in **digital twin environments**.
+
+## Key Results (In Progress)
+
+- Built preliminary datasets combining RGB-colored LiDAR scans from terrestrial and aerial sources.
+- Implemented dual-mode training pipelines using **2D semantic segmentation (e.g., Mask2Former, DeepLabV3+)** and **3D point-wise networks (e.g., PointNet++, SPFormer)**.
+- Designed a benchmarking suite to test the scalability and generalization of segmentation models across diverse structural geometries.
+- Created prototype software tools to generate **structure-specific digital twins** from raw point clouds.
+
+## Upcoming Publication
+
+Yan, X., Fascetti, A.\* (in prep.). *Review and Experimental Evaluation of Deep Learning-Based 3D Point Cloud Scene Understanding for Civil Infrastructure*. Target journal: **Automation in Construction**.
+
+## Funding
+
+Supported by the **Improved Infrastructure Systems and Evaluation (IRISE) Consortium**, University of Pittsburgh.
+
+## Visual Summary
+
+<img src='/images/Portfolio_03.png' alt='LiDAR semantic segmentation overview'>

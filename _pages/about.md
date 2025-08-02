@@ -54,8 +54,8 @@ With international research and academic experience in China, Japan, and the Uni
 
 🔸 **Yan, X.**, M. Darnell, Vandenbossche, J., Fascetti, A.\* (2024). *Deep Learning-Based Entrapped Air Segmentation and Evaluation (EASE) for Plain Concrete Pavement Applications.* *13th International Conference on Concrete Pavements (ICCP)*, Minneapolis, MN. [DOI](https://13thiccp.concretepavements.org/workshops/deep-learning-based-entrapped-air-segmentation-and-evaluation-ease-for-plain-concrete-pavement-applications/)  
 🔸 **Yan, X.**, Chen, P.S.,\* Al-Fakih, A., B. Liu, Mohammed, B.S., J. Jin. (2022). *The Effect of Hollow Body Properties on the Mechanical Characteristics of Bubble Concrete: A Review.* *AIJ Annual Convention*, Hokkaido, Japan.  
-🔸 **Yan, X.**, Chen, P.S.,\* Mohammed, B.S., Liu, B. (2022). *Effect of Hollow Bodies on the Strength and Density of Bubble Concrete.* In *AWAM Int’l Conference on Civil Engineering*, Springer, Penang, Malaysia. [DOI](https://link.springer.com/chapter/10.1007/978-981-99-6018-7_10)  
-🔸 **Yan, X.**, Chen, P.S.\* (2021). *Effect of Hollow Body Shape on Internal Stress Distribution of Bubble Concrete.* In *Int’l Conference on Architecture, Materials and Construction*, Springer, Lisbon, Portugal. [DOI](https://link.springer.com/chapter/10.1007/978-3-030-94514-5_23)  
+🔸 **Yan, X.**, Chen, P.S.,\* Mohammed, B.S., Liu, B. (2022). *Effect of Hollow Bodies on the Strength and Density of Bubble Concrete.* In *AWAM International Conference on Civil Engineering*, Springer, Penang, Malaysia. [DOI](https://link.springer.com/chapter/10.1007/978-981-99-6018-7_10)  
+🔸 **Yan, X.**, Chen, P.S.\* (2021). *Effect of Hollow Body Shape on Internal Stress Distribution of Bubble Concrete.* In *International Conference on Architecture, Materials and Construction*, Springer, Lisbon, Portugal. [DOI](https://link.springer.com/chapter/10.1007/978-3-030-94514-5_23)  
 🔸 **Yan, X.**, Jin, J., Chen, P.S.\* (2021). *Numerical Simulation on Lightweight Concrete Mixed with High-Strength Ceramic Hollow Bodies.* *AIJ Annual Convention*, Nagoya, Japan.
 
 
