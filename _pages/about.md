@@ -23,6 +23,7 @@ With international research and academic experience in China, Japan, and the Uni
 📰 News
 ------
 
+🔹 **2025.04** – Awarded the **NSF I-Corps Regional Program** fellowship for translational research on civil infrastructure QA/QC systems.  
 🔹 **2025.02** – Passed Ph.D. Proposal Defense and became a Ph.D. candidate at Pitt.  
 🔹 **2025.01** – Attended the 104th [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/) in Washington, D.C.  
 🔹 **2024.08** – Launched a high-resolution LiDAR segmentation project with [IRISE](https://www.engineering.pitt.edu/subsites/consortiums/irise/research/active-projects/).  
@@ -30,13 +31,16 @@ With international research and academic experience in China, Japan, and the Uni
 
 
 
+
 📑 Selected Publications
 ------
-🔸 **X. Yan**, M. Darnell, J. Vandenbossche, A. Fascetti, 2024. “Camera-Based Binocular Stereo Vision for Dynamic Assessment of Vibration Operations in Slipform Paving.” *Transportation Research Record*. In press.  
-🔸 **X. Yan**, M. Darnell, J. Vandenbossche, A. Fascetti. 2024. “Deep Learning-Based Entrapped Air Segmentation and Evaluation (EASE) for Plain Concrete Pavement Applications.” *13th ICCP*. In press.  
-🔸 **X. Yan**, A. Fascetti, J. Vandenbossche, M. Darnell. 2023. “Computer Vision-Based Estimation of the Effects of Vibration in Slipform Paving.” *Transportation Research Record*. **Best Paper Award**.  
-🔸 S. Hussain, P.S. Chen, N. Koizumi, B. Liu, **X. Yan**, 2023. “Experimental Study on Spring Constants of Structural Glass Panel Joints.” *Pertanika Journal of Science & Technology*.  
-🔸 B. Liu, P.S. Chen, **X. Yan**, J. Jin. 2023. “Fitting Approximate Equations for Global Buckling Load of Cylindrical Space Frames.” *AIJ Journal of Technology and Design*.
+🔸 **X. Yan**, A. Fascetti. 2025. *An Integrated Framework for Mesoscale Modeling of Concrete Elements Based on Spherical Harmonic Expansion.* *Construction and Building Materials*. Under review.  
+🔸 **X. Yan**, A. Fascetti. 2025. *A Photometric Stereo and Vision Transformer-Based Framework for Automated Air Void Analysis in Hardened Concrete.* *Cement and Concrete Research*. Under review.  
+🔸 **X. Yan**, P.S. Chen, B. Liu. 2025. *Mechanical Evaluation of Novel High-Strength Lightweight Concrete with Core-Shell Structured Lightweight Aggregate.* *Construction and Building Materials*, 483, 141683. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.141683)  
+🔸 **X. Yan**, M. Darnell, J. Vandenbossche, A. Fascetti. 2025. *Camera-Based Binocular Stereo Vision for Dynamic Assessment of Vibration Operations in Slipform Paving.* *Transportation Research Record*, 0(0). In press.  
+🔸 **X. Yan**, M. Darnell, J. Vandenbossche, A. Fascetti. 2024. *Deep Learning-Based Entrapped Air Segmentation and Evaluation (EASE) for Plain Concrete Pavement Applications.* *13th ICCP*, Minneapolis, MN. [Conference page](https://13thiccp.concretepavements.org/)  
+🔸 **X. Yan**, A. Fascetti, J. Vandenbossche, M. Darnell. 2023. *Computer Vision-Based Estimation of the Effects of Vibration in Slipform Paving.* *Transportation Research Record*, 2678(11), 56–71. **Best Paper Award**. [DOI](https://doi.org/10.1177/03611981231198348)
+
 
 
 
