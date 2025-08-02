@@ -11,41 +11,58 @@ redirect_from:
 
 🎓 Education
 ------
-* 2022.09 - Current,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, United States <br>
-* 2020.09 - 2022.08, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
-* 2019.04 - 2020.03, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
-* 2016.09 - 2020.08, Bachelor, Henan University of Technology, Luoyang City, China <br>
+* 2022.09 – Current,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, United States <br>
+* 2020.09 – 2022.08, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
+* 2019.04 – 2020.03, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
+* 2016.09 – 2020.08, Bachelor, Henan University of Technology, Luoyang City, China <br>
 
 
 🎖️ Honors & Awards
 ------
-* 2024.11 - CEE Travel Grant, Swanson School of Engineering, United States <br>
-* 2024.04 - Research Assistant of the Year, Swanson School of Engineering, United States <br>
-* 2024.01 - **Best Paper Award**, Transportation Research Board, United States <br>
-* 2022.04 - JASSO Scholarship, Japan Student Services Organization, Japan <br>
-* 2020.10 - JASSO Scholarship, Japan Student Services Organization, Japan <br>
-* 2018.11 - **National Scholarship**, Ministry of Education of the People's Republic of China, China <br>
-* 2018.10 - Excellent Award in Revit Competition, Ministry of Industry and Information Technology of China, China <br>
-* 2018.05 - Second prize in Structural Model Design Competition, Henan University of Science and Technology, China <br>
-* 2018.04 - Excellent Student Cadre, Henan University of Science and Technology, China <br>
-* 2017.10 - Excellent Student Cadre, Henan University of Science and Technology, China <br>
-* 2017.04 - Excellent Class Leader, Henan University of Science and Technology, China <br>
+* 2025.04 – **NSF I-Corps Regional Program**, National Science Foundation, USA  
+* 2024.11 – **CEE Travel Grant**, Swanson School of Engineering, USA  
+* 2024.04 – **Research Assistant of the Year**, Swanson School of Engineering, USA  
+* 2024.01 – **Best Paper Award**, Transportation Research Board (TRB), USA  
+* 2022.04 – JASSO Scholarship, Japan Student Services Organization, Japan  
+* 2020.10 – JASSO Scholarship, Japan Student Services Organization, Japan  
+* 2018.11 – **National Scholarship**, Ministry of Education, P.R. China  
+* 2018.10 – Excellent Award in Revit Competition, MIIT, China  
+* 2018.05 – Second Prize, Structural Model Design Competition, Henan Univ. of Science & Tech  
+* 2018.04 / 2017.10 – Excellent Student Cadre, Henan Univ. of Science & Tech  
+* 2017.04 – Excellent Class Leader, Henan Univ. of Science & Tech  
 
   
-👨🏻‍💻 Skills
+
+🧩 Summary of Research Experience
 ------
-With a versatile technical acumen, I am proficient in programming languages such as Python, MATLAB, JavaScript, HTML5/CSS, and Fortran90 (sometime), leveraging these tools to architect robust, scalable solutions for complex engineering challenges. 
+> Full research descriptions and selected publications are available on the [Home Page](/) and [Project](/publications/) pages.
 
-Complementing my programming proficiency, I specialize in advanced mechanical analysis (FEA) and Building Information Modeling (BIM), employing industry-leading platforms including ADINA, SOLIDWORKS, Autodesk CAD, Revit, Fusion 360, and Blender to perform high-fidelity simulations and construct intricate 3D models. 
+**Semantic Segmentation of High-Resolution LiDAR Point Clouds**  
+*University of Pittsburgh, Oct 2024 – Present*  
+- Developed deep learning pipelines combining CLIP, Grounded-SAM, 3D Gaussian Splatting, and NeRF.  
+- Cross-modal 2D–3D label fusion and geometry-aware descriptors for structural parsing.
 
-My experience in Unreal Engine further bridges virtual prototyping and immersive visualization, ensuring meticulous precision from concept to execution. This interdisciplinary expertise empowers me to deliver innovative, end-to-end engineering solutions that harmonize computational rigor with creative problem-solving.
+**Micro-Mechanical Characterization of Concrete Vibration**  
+*University of Pittsburgh, Sep 2022 – Sep 2024*  
+- Designed PaCS apparatus; conducted photometric stereo, CNN-based segmentation, and DEM simulations.
+
+**High-Strength Lightweight Concrete with Core–Shell Aggregates**  
+*Kyutech & UTP Malaysia, Oct 2020 – Aug 2022*  
+- PSO-driven FEM parametric optimization; validated against experimental tests.
+
+**Global Buckling Load Estimation of Space Frames**  
+*Kyutech, Oct 2020 – Aug 2022*  
+- Regression-based analytical approximations; validated via eigenvalue and nonlinear FE analyses.
+
+**Structural Health Monitoring Training**  
+*MIT Summer School Program, Sep – Oct 2020*  
+- Participated in case studies involving AI-assisted bridge monitoring and lifecycle analysis.
 
 
-🌟 Hobbies
+📎 CV Download
 ------
-I am an avid reader and writer, passions that fuel creativity and broaden my perspective. Music serves as both a creative outlet and a source of inspiration—whether I’m unwinding with the harmonica or drawing energy from curated playlists. 
+You can download my full CV [here](https://drive.google.com/file/d/1IGskjzPZ_UploadYourPDFLink).
 
-To balance mental focus with physical vitality, I embrace outdoor pursuits like swimming, skiing, trail running, and mountaineering. These activities challenge me to grow while fostering discipline, resilience, and a deep appreciation for the natural world.
 
 <br><br><br>
 
