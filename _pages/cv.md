@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 Education
 ------
-* 2022.09 – Current,  Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, United States <br>
+* 2022.09 – Current, Ph.D. Candidate,  University of Pittsburgh, Pittsburgh City, United States <br>
 * 2020.09 – 2022.08, Master, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
 * 2019.04 – 2020.03, Exchange, Kyushu Institute of Technology, Kitakyushu City, Japan <br>
 * 2016.09 – 2020.08, Bachelor, Henan University of Technology, Luoyang City, China <br>
@@ -35,7 +35,7 @@ redirect_from:
 
 🧩 Summary of Research Experience
 ------
-> Full research descriptions and selected publications are available on the [Home Page](/) and [Project](/publications/) pages.
+> Full research descriptions and selected publications are available on the [Home Page](/) and [Portfolio](/portfolio/) pages.
 
 **Semantic Segmentation of High-Resolution LiDAR Point Clouds**  
 *University of Pittsburgh, Oct 2024 – Present*  
