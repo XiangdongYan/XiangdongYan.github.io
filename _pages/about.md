@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh 🏛. I am dedicated to improving the safety and reliability of **Civil Infrastructure** through **Advanced Deep Learning** techniques. <br>
+Hello! I’m **[Xiangdong Yan]**, candidate in the Department of Civil and Environmental Engineering at the University of Pittsburgh . I am dedicated to improving the safety and reliability of **Civil Infrastructure** through **Advanced Deep Learning** techniques. <br>
 
 My current work focuses on developing cutting-edge computer vision methods—such as **3D Reconstruction**, **Image** and **LiDAR Point Cloud Recognition**, and **Semantic Segmentation**—to enhance quality assurance and quality control (QA/QC) processes. 
 By pushing the boundaries of AI-driven analysis, I aim to address critical challenges in infrastructure assessment and ultimately create a safer, more resilient built environment. 
@@ -22,13 +22,13 @@ Here, you’ll find details about my research, publications, and ongoing project
 📰 News!!!
 ------
 
-🔹2025.02 - **PhD Proposal Defense**: 🌟 I successfully passed my PhD proposal defense and am now officially a PhD candidate. I’m grateful for all the support and hard work that went into reaching this milestone!
+🔹2025.02 - **PhD Proposal Defense**: I successfully passed my PhD proposal defense and am now officially a PhD candidate. I’m grateful for all the support and hard work that went into reaching this milestone!
 
-🔹2025.01 - **TRB Annual Meeting**: 🤝 I participated in the 104th [Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/) Annual Meeting in Washington, D.C. It was a fantastic opportunity to share ideas and network with professionals in the field.
+🔹2025.01 - **TRB Annual Meeting**: I participated in the 104th [Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/) Annual Meeting in Washington, D.C. It was a fantastic opportunity to share ideas and network with professionals in the field.
 
-🔹2024.08 - **New Project Launched**: 🚀 I’m excited to start a high-resolution LiDAR point cloud semantic segmentation 📡 project with [IRISE](https://www.engineering.pitt.edu/subsites/consortiums/irise/research/active-projects/). If you’re interested in collaborating, please get in touch!
+🔹2024.08 - **New Project Launched**: I’m excited to start a high-resolution LiDAR point cloud semantic segmentation 📡 project with [IRISE](https://www.engineering.pitt.edu/subsites/consortiums/irise/research/active-projects/). If you’re interested in collaborating, please get in touch!
 
-🔹2024.08 - **13th ICCP conference**: 🤝 I had the opportunity to attend the [13th International Conference on Concrete Pavements](https://13thiccp.concretepavements.org/) (ICCP) in Minneapolis, Minnesota, organized by ISCP. It was an inspiring event! You can check out my presentation [here](https://13thiccp.concretepavements.org/workshops/deep-learning-based-entrapped-air-segmentation-and-evaluation-ease-for-plain-concrete-pavement-applications/).
+🔹2024.08 - **13th ICCP conference**: I had the opportunity to attend the [13th International Conference on Concrete Pavements](https://13thiccp.concretepavements.org/) (ICCP) in Minneapolis, Minnesota, organized by ISCP. It was an inspiring event! You can check out my presentation [here](https://13thiccp.concretepavements.org/workshops/deep-learning-based-entrapped-air-segmentation-and-evaluation-ease-for-plain-concrete-pavement-applications/).
 
 
 
