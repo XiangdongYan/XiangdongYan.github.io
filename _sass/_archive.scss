@@ -50,6 +50,17 @@
   a + a {
     opacity: 0.5;
   }
+  a {
+    color: $text-color;
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: $link-color; // or a custom color like #1a73e8
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
 }
 
 /* remove border*/

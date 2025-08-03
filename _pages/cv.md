@@ -35,7 +35,7 @@ redirect_from:
 
 🧩 Summary of Research Experience
 ------
-> Full research descriptions and selected publications are available on the [Home Page](/) and [Project & Portfolio](/portfolio/) pages.
+> Full research descriptions and publications are available on the [Home Page](/) and [Project & Portfolio](/portfolio/).
 
 **1. Semantic Segmentation of High-Resolution LiDAR Point Clouds**  
 *University of Pittsburgh, Oct 2024 – Present*  
