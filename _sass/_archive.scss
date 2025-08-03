@@ -22,13 +22,13 @@
     transition: all 0.2s ease;
 
     &:hover {
-        color: $tumblr-color; // or a custom color like #1a73e8
-        text-decoration: underline;
-        cursor: pointer;
-        transform: translateY(-10px); // slight upward float
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); // soft shadow
-
-      img {
+      color: $tumblr-color; // or a custom color like #1a73e8
+      text-decoration: underline;
+      cursor: pointer;
+      transform: translateY(-10px); // slight upward float
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); // soft shadow
+      
+    &:img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
@@ -55,6 +55,15 @@
 
   a + a {
     opacity: 0.5;
+  }
+  a {
+    &:hover {
+      color: $tumblr-color; // or a custom color like #1a73e8
+      text-decoration: underline;
+      cursor: pointer;
+      transform: translateY(-10px); // slight upward float
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); // soft shadow
+    }
   }
 }
 
