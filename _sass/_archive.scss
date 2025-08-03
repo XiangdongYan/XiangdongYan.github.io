@@ -22,15 +22,20 @@
     transition: all 0.2s ease;
 
     &:hover {
-      color: $tumblr-color; // or a custom color like #1a73e8
+      color: $tumblr-color;
       text-decoration: underline;
       cursor: pointer;
-      transform: translateY(-10px); // slight upward float
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); // soft shadow
-      
-    &:img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+      transform: translateY(-15px); // subtle float
+    }
+
+    // Optional: if links wrap images, give hover effect to images too
+    img {
+      transition: all 0.3s ease;
+    }
+
+    &:hover img {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      transform: scale(1.02);
     }
   }
 }

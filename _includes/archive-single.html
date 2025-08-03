@@ -47,7 +47,7 @@
       style="display: flex; align-items: flex-start; gap: 10px; font-style: italic;">
       {% if post.thumbnail %}
       <img src="{{ post.thumbnail | relative_url }}" alt="thumbnail"
-        style="width: 96px; height: 96px; object-fit: cover; border-radius: 4px; margin-top: 0.5em;" />
+        style="width: 180px; height: 180px; object-fit: cover; border-radius: 4px; margin-top: 1em;" />
       {% endif %}
       <span>{{ post.excerpt | markdownify }}</span>
     </div>
