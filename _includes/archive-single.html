@@ -43,9 +43,14 @@
         {% endif %}
         
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description" style="font-style: italic;">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p><small>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></small></p></p>
+    <div class="archive__item-excerpt" itemprop="description"
+      style="display: flex; align-items: flex-start; gap: 10px; font-style: italic;">
+      {% if post.thumbnail %}
+      <img src="{{ post.thumbnail | relative_url }}" alt="thumbnail"
+        style="width: 48px; height: 48px; object-fit: cover; border-radius: 4px; margin-top: 2px;" />
+      {% endif %}
+      <span>{{ post.excerpt | markdownify }}</span>
+    </div>
     {% endif %}
 
     {% if post.citation and post.paperurl and post.slidesurl %}
