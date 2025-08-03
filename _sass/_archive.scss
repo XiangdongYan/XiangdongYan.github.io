@@ -51,14 +51,16 @@
     opacity: 0.5;
   }
   a {
-    color: $text-color;
+    color: $tumblr-color;
     text-decoration: none;
     transition: all 0.2s ease;
 
     &:hover {
-      color: $link-color; // or a custom color like #1a73e8
+      color: $tumblr-color; // or a custom color like #1a73e8
       text-decoration: underline;
       cursor: pointer;
+      transform: translateY(-3px); // slight upward float
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); // soft shadow
     }
   }
 }
