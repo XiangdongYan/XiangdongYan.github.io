@@ -27,7 +27,7 @@ author:
   pronouns         : "Personal pronouns: He / His / Him"
   location         : "Pittsburgh, PA, United States"
   employer         : "University of Pittsburgh"
-  uri              : "xiangdongyan.github.io"
+  uri              : #"xiangdongyan.github.io"
   email            : "xiy144@pitt.edu" 
 
   # Academic websites
