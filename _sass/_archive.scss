@@ -79,10 +79,8 @@
 }
 
 .archive__item-title a:hover {
-  transform: translateY(-10px);
+  transform: translateY(-5px);
   /* Float up by 5px */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-  /* Optional shadow for depth */
 }
 
 /* remove border*/
