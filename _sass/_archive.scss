@@ -72,6 +72,19 @@
   }
 }
 
+.archive_item-title a {
+  display: inline-block;
+  /* Needed for transform to work on inline elements */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.archive_item-title a:hover {
+  transform: translateY(-10px);
+  /* Float up by 5px */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  /* Optional shadow for depth */
+}
+
 /* remove border*/
 .page__content {
 
