@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Graduate course"
 permalink: "/teaching/2025-08-22-cee1712-digitalization"
 venue: "University of Pittsburgh, Swanson School of Engineering"
-date: 2022-08-22
+date: 2025-08-22
 location: "Pittsburgh, Pennsylvania, USA"
 ---
 
